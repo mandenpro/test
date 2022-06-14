@@ -1,0 +1,6 @@
+open storage.bunnycdn.com
+
+
+user snapback e8097471-7d6c-4227-97bd6e18e119-4e3e-4ec1
+mput *
+bye
